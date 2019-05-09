@@ -50,3 +50,9 @@ input[type=checkbox] {
 input[type=checkbox]:focus {
     outline: 0;
 }
+
+input[type=checkbox]:checked  + label{
+    color: grey;
+    font-style: italic;
+    text-decoration-line: line-through;
+}
