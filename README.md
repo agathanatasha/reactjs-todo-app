@@ -1,3 +1,8 @@
+# Todo App
+
+This project is completed by following [Learn React for Free course](https://scrimba.com/g/glearnreact) taught by Bob Ziroll.
+You can also find the full tutorial video on [YouTube](https://www.youtube.com/watch?v=DLX62G4lc44).
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
